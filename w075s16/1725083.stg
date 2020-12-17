@@ -1,0 +1,5 @@
+OBJECT_BASE 1725083.btg
+OBJECT SPYU.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.541866 -15.616006 172.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.529804 -15.621772 179.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -74.535568 -15.618310 176.8 0.00
